@@ -1,7 +1,7 @@
 #Install Vegan package
 install.packages("vegan")
 
-# Load libraries
+# Load library
 library(vegan)
 
 #Create a table with final results of the test
