@@ -17,7 +17,7 @@
 |10.-Organizar scripts y directorios| **Pendiente**
 |11.-Terminar el escrito del README y el Markdown | Casi listo|
 
-### · Actividades realizadas##
+### · Actividades realizadas
 
 6.-Con el trabajo realizado anteriormente pude hacer el BLAST de mis secuencias y descargar secuencias de GenBank utilizando ape.
 
