@@ -1,7 +1,7 @@
 
 ## Avance 3				
 
-### · Actividades por realizar##
+### · Actividades por realizar
 
 | Actividades| Estado | 
 |----------------------|----------|
